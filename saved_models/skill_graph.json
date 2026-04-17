@@ -1,0 +1,107 @@
+{
+  "python": [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "pytorch",
+    "tensorflow",
+    "fastapi",
+    "flask",
+    "django"
+  ],
+  "machine_learning": [
+    "regression",
+    "classification",
+    "clustering",
+    "xgboost",
+    "lightgbm",
+    "random_forest"
+  ],
+  "deep_learning": [
+    "cnn",
+    "rnn",
+    "lstm",
+    "transformers",
+    "attention_mechanism",
+    "bert",
+    "gpt"
+  ],
+  "nlp": [
+    "tokenization",
+    "named_entity_recognition",
+    "sentiment_analysis",
+    "text_classification",
+    "embeddings",
+    "spacy",
+    "nltk"
+  ],
+  "computer_vision": [
+    "image_classification",
+    "object_detection",
+    "yolo",
+    "opencv",
+    "image_segmentation"
+  ],
+  "data_engineering": [
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "etl",
+    "data_pipelines",
+    "dbt"
+  ],
+  "cloud": [
+    "aws",
+    "gcp",
+    "azure",
+    "docker",
+    "kubernetes",
+    "terraform",
+    "ci_cd"
+  ],
+  "backend": [
+    "java",
+    "spring_boot",
+    "nodejs",
+    "golang",
+    "rest_api",
+    "graphql",
+    "microservices"
+  ],
+  "frontend": [
+    "react",
+    "vue",
+    "typescript",
+    "javascript",
+    "html_css",
+    "tailwind",
+    "nextjs"
+  ],
+  "devops": [
+    "git",
+    "jenkins",
+    "github_actions",
+    "ansible",
+    "monitoring",
+    "prometheus",
+    "grafana"
+  ],
+  "data_science": [
+    "statistics",
+    "hypothesis_testing",
+    "a_b_testing",
+    "data_visualization",
+    "matplotlib",
+    "seaborn",
+    "tableau"
+  ],
+  "databases": [
+    "postgresql",
+    "mongodb",
+    "redis",
+    "elasticsearch",
+    "mysql",
+    "cassandra"
+  ]
+}

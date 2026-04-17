@@ -1,0 +1,175 @@
+{
+  "ML Engineer": {
+    "required": [
+      "python",
+      "machine_learning",
+      "deep_learning",
+      "docker",
+      "git"
+    ],
+    "preferred": [
+      "nlp",
+      "pytorch",
+      "tensorflow",
+      "kubernetes",
+      "aws"
+    ],
+    "nice_to_have": [
+      "spark",
+      "kafka",
+      "data_pipelines"
+    ],
+    "description": "Build and deploy scalable ML models for production systems."
+  },
+  "Data Scientist": {
+    "required": [
+      "python",
+      "statistics",
+      "machine_learning",
+      "sql",
+      "data_visualization"
+    ],
+    "preferred": [
+      "deep_learning",
+      "a_b_testing",
+      "tableau",
+      "r"
+    ],
+    "nice_to_have": [
+      "spark",
+      "airflow",
+      "cloud"
+    ],
+    "description": "Drive business decisions through data analysis and predictive modeling."
+  },
+  "NLP Engineer": {
+    "required": [
+      "python",
+      "nlp",
+      "transformers",
+      "bert",
+      "pytorch"
+    ],
+    "preferred": [
+      "text_classification",
+      "named_entity_recognition",
+      "embeddings",
+      "spacy"
+    ],
+    "nice_to_have": [
+      "fastapi",
+      "docker",
+      "aws"
+    ],
+    "description": "Build NLP pipelines and language understanding systems."
+  },
+  "Backend Engineer": {
+    "required": [
+      "python",
+      "rest_api",
+      "sql",
+      "git",
+      "docker"
+    ],
+    "preferred": [
+      "microservices",
+      "kubernetes",
+      "redis",
+      "postgresql"
+    ],
+    "nice_to_have": [
+      "kafka",
+      "elasticsearch",
+      "aws"
+    ],
+    "description": "Design and develop robust backend services and APIs."
+  },
+  "Full Stack Developer": {
+    "required": [
+      "javascript",
+      "react",
+      "nodejs",
+      "sql",
+      "git"
+    ],
+    "preferred": [
+      "typescript",
+      "docker",
+      "rest_api",
+      "postgresql",
+      "css"
+    ],
+    "nice_to_have": [
+      "graphql",
+      "kubernetes",
+      "aws",
+      "redis"
+    ],
+    "description": "Build end-to-end web applications from UI to database."
+  },
+  "Data Engineer": {
+    "required": [
+      "python",
+      "sql",
+      "spark",
+      "airflow",
+      "etl"
+    ],
+    "preferred": [
+      "kafka",
+      "aws",
+      "docker",
+      "data_pipelines",
+      "dbt"
+    ],
+    "nice_to_have": [
+      "kubernetes",
+      "terraform",
+      "mongodb"
+    ],
+    "description": "Design data infrastructure and pipelines for analytics at scale."
+  },
+  "Computer Vision Engineer": {
+    "required": [
+      "python",
+      "deep_learning",
+      "cnn",
+      "opencv",
+      "pytorch"
+    ],
+    "preferred": [
+      "object_detection",
+      "yolo",
+      "image_segmentation",
+      "tensorflow"
+    ],
+    "nice_to_have": [
+      "docker",
+      "aws",
+      "kubernetes"
+    ],
+    "description": "Develop vision AI models for real-world perception tasks."
+  },
+  "DevOps Engineer": {
+    "required": [
+      "docker",
+      "kubernetes",
+      "git",
+      "ci_cd",
+      "linux"
+    ],
+    "preferred": [
+      "aws",
+      "terraform",
+      "ansible",
+      "prometheus",
+      "jenkins"
+    ],
+    "nice_to_have": [
+      "python",
+      "grafana",
+      "kafka"
+    ],
+    "description": "Build and maintain scalable infrastructure and deployment pipelines."
+  }
+}
